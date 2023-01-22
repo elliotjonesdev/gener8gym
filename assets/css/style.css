@@ -1,8 +1,22 @@
+header {
+
+    padding-top: 12px;
+}
+
+
 body {
 
     background-color: #000;
 
 }
+
+hr {
+
+    border-top: 1px solid white; 
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+ }
 
 
 
