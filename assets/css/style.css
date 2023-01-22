@@ -22,6 +22,12 @@ body {
 
 }
 
+#main-image {
+    height:200px;
+    width:900px;
+    float:right;
+}
+
 hr {
 
     border-top: 1px solid white; 
@@ -68,9 +74,15 @@ p {color: white;}
     border: solid 2px white;
     height:auto;
     width: 33%;
+    float: left;
 }
 .offer {
     padding-top: 200px;
+}
+
+#what-people-say {
+
+    clear: both;
 }
 
 .footer-bottom{
