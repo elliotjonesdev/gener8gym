@@ -64,6 +64,15 @@ p {color: white;}
     
 }
 
+.best-gym {
+    border: solid 2px white;
+    height:auto;
+    width: 33%;
+}
+.offer {
+    padding-top: 200px;
+}
+
 .footer-bottom{
 
     background: #000;
