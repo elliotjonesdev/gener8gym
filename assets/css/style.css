@@ -25,6 +25,17 @@ header {
     color:white
 }
 
+#home {
+
+    background: url(../images/bruce-mars.jpg) no-repeat center center fixed;
+    display:table;
+    height:100%;
+    position:relative;
+    width:100%;
+    background-size:cover;
+
+}
+
 body {
 
     background-color: #000;
