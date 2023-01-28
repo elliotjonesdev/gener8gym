@@ -22,12 +22,7 @@ body {
 
 }
 
-#main-image {
-    height:auto;
-    width:950px;
-    float:right;
-    padding: 0px 20px 0px 10px;
-}
+
 
 hr {
 
@@ -54,11 +49,6 @@ h3 {
    
 }
 
-#offer-text p {
-    padding: 300px 0px 0px 0px;
-    text-align: center;
-    font-size: 20px;
-}
 
 p {
 
@@ -81,124 +71,11 @@ p {
 
 
 
-.center h1 {
-  
-    text-transform: uppercase;
-    font-size:  8em;
-    color: white;
-    font-weight: 700;
-    text-align: center;
-  
-    
-}
-
-.best-gym {
-    border: solid 2px white;
-    height: 613px;
-    width: 32%;
-    float: left;
-}
-
-
-#best-box {
-
-    padding-top: 10px;
-    padding-left: 20px;
-}
-.best-gym h2 {
-
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-bottom: auto;
-    color: white;
-}
-
-
-.best-gym p {
-
-    padding-top: 5px;
-}
 
 
 
 
 
 
-#what-people-say {
 
-    clear: both;
-    margin: 50px;
-    text-align: center;
-    text-transform: uppercase;
-    padding-top: 10px;
-}
 
-.footer-bottom{
-
-    background: #000;
-    width: 100vw;
-    padding: 10px;
-    text-align: center;
-}
-
-.footer-bottom p {
-
-    text-align: center;
-    font-size: 14px;
-    word-spacing: 2px;
-    text-transform: capitalize;
-    padding-top: 0px;
-}
-
-footer li a {
-
-    text-decoration: none;
-    color: #fff;
-    border: 1.1px solid white;
-    padding: 8px;
-    border-radius: 50%;
-    width: 35px;
-}
-
-footer {
-
-    position: relative;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: #000;
-    height: auto;
-    padding-top: 40px;
-    width: 100vw;
-    color: white;
-    
-}
-
-.footer-content {
-
-    display: flex;
-    align-items:center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-
-}
-
-.socials {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0 3rem 0;
-    padding: 0px;
-    }
-    
-    .socials a:hover {
-        color: #00e600;
-    }
-    
-    .socials li {
-    
-        margin: 0 10px;
-    
-    }
