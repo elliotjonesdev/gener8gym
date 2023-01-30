@@ -22,9 +22,11 @@ header {
     
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
 
-    color:white
+    color:white;
 }
-
+p {
+    color:white;
+}
 #home {
 
     background: url(../images/bruce-mars.jpg) no-repeat center center fixed;
@@ -87,6 +89,45 @@ hr {
 
  }
 
+ footer {
+
+    width:100%;
+    padding: 5% 5% 10% 5%;
+    color:white;
+ }
+
+ .fa {
+
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+ }
+
+ .fa:hover {
+    color:greenyellow;
+    text-decoration: none;
+ }
+
+ @media (max-width:768px) {
+
+    .landing-text h1 {
+        font-size: 300%;
+    }
+    .fa {
+        font-size: 20px;
+        padding:10px;
+    }
+ }
+
+ @media (max-width:600px) {
+
+    .landing-text h1 {
+        font-size: 250%;
+    }
+    .fa {
+        font-size: 20px;
+        padding:10px;
+    }
 
 
 
