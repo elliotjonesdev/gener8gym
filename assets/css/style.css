@@ -17,6 +17,7 @@ header {
 }
 
 
+
 .nav-item {
     text-transform: uppercase}
     
@@ -24,9 +25,13 @@ header {
 
     color:white;
 }
+
+
+
 p {
     color:white;
 }
+
 #home {
 
     background: url(../images/bruce-mars.jpg) no-repeat center center fixed;
@@ -46,12 +51,13 @@ p {
 
 .landing-text h1 {
 
-    font-size: 500%;
-    font-weight:700;
+    font-size: 800%;
+    font-weight: 700;
+    word-spacing: 10px;
 }
 
 body {
-    background-color: #000;
+    background-color:#1a1a1a;
 
 }
 
