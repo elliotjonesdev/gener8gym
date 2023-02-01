@@ -29,13 +29,14 @@ header {
 
 
 
-.lead {
-    color:white;
-    font-size: 18px;
-    letter-spacing: .8px;
-    padding: 16px;
-    
+.col-sm-6 text-center {
+    color: white;
+
 }
+
+
+
+
 
 #home {
 
@@ -67,7 +68,9 @@ header {
     padding: 30px;
 }
 
-
+p {
+    color: white;
+}
 
 .landing-text h1 {
 
@@ -120,11 +123,12 @@ hr {
  h4 {
 
     color: white;
+   
  }
 
  h2 {
     color: white;
-    letter-spacing: .8px;
+    letter-spacing: 1px;
     padding-top: 10px;
  }
 
