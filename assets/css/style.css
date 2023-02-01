@@ -29,8 +29,11 @@ header {
 
 
 
-p {
+.lead {
     color:white;
+    font-size: 18px;
+    letter-spacing: .8px;
+    padding: 16px;
     
 }
 
@@ -42,15 +45,29 @@ p {
     position:relative;
     width:100%;
     background-size:cover;
+    z-index: -1;
 
 }
+
+
+
 
 .landing-text {
     display:table-cell;
     text-align: center;
     vertical-align: middle;
 
+   
+
 }
+
+#backdrop {
+    background-color: black;
+    opacity: 0.5;
+    padding: 30px;
+}
+
+
 
 .landing-text h1 {
 
@@ -107,6 +124,8 @@ hr {
 
  h2 {
     color: white;
+    letter-spacing: .8px;
+    padding-top: 10px;
  }
 
 
