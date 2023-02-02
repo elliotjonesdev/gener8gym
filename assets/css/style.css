@@ -70,7 +70,10 @@ header {
     margin-right: 270px;
 }
 
-
+.btn {
+    background-color: greenyellow;
+    border: none;
+}
 
 p {
     color: white;
