@@ -100,13 +100,13 @@ body {
 
 #fixed {
 
-    background: url(../images/bruce-mars.jpg) no-repeat center center fixed;
+    background: url(../images/bwgym.jpg) no-repeat center center fixed;
     display:table;
     height:60%;
     position:relative;
     width:100%;
     background-size:cover;
-    opacity: .4;
+    
 }
 
 .fa-bolt {
