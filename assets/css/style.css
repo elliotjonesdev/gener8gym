@@ -19,7 +19,9 @@ header {
 
 
 .nav-item {
-    text-transform: uppercase}
+    text-transform: uppercase;
+
+}
     
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
 
@@ -145,6 +147,7 @@ hr {
     color:greenyellow;
     letter-spacing: 1px;
     padding-top: 10px;
+    font-size: 30px;
  }
 
  h1 {
