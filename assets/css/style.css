@@ -160,6 +160,12 @@ hr {
     padding-top: 50px;
  }
 
+ i.fa.fa-superpowers {
+    padding: 5px;
+font-size: 40px;
+color: greenyellow;
+ }
+
 .padding {
 
     padding-top: 100px;
