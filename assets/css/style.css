@@ -166,6 +166,18 @@ font-size: 40px;
 color: greenyellow;
  }
 
+ i.fa.fa-rocket {
+    color: greenyellow;
+ }
+
+ i.fa.fa-heartbeat {
+    color: greenyellow;
+ }
+
+ i.fa.fa-area-chart {
+    color: greenyellow;
+ }
+
 .padding {
 
     padding-top: 100px;
