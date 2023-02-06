@@ -173,6 +173,10 @@ color: greenyellow;
 
 }
 
+#logo i.fa.fa-superpowers {
+    font-size: 70px;
+    padding-bottom: 15px;
+}
 
 .reasons {
     padding-bottom: 100px;
