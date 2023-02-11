@@ -5,6 +5,7 @@ html, body {
 header {
   
 }
+
 .navbar-brand {
     font-size: 2em;
     font-weight: bold;
@@ -13,10 +14,13 @@ header {
 .nav-item {
     text-transform: uppercase;
 }
-    
-.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
-    color:white;
+li.nav-item.active {
+  background-color: yellowgreen;
 }
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
+  color:white;
+}
+
 .col-sm-6 text-center {
     color: white;
 }
