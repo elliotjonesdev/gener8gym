@@ -29,6 +29,16 @@ header {
     background-size:cover;
     z-index: -1;
 }
+
+#about {
+  background: url(../images/rsz_about.jpg) no-repeat center center fixed;
+  display:table;
+  height:100%;
+  position:relative;
+  width:100%;
+  background-size:cover;
+  z-index: -1;
+}
 .lead {
     padding-left: 70px;
     padding-right: 70px;
