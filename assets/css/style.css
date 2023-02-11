@@ -143,6 +143,27 @@ i.fa.fa-heartbeat {
 i.fa.fa-area-chart {
   color: greenyellow;
 }
+
+i.fa.fa-handshake-o {
+  color:greenyellow;
+}
+i.fa.fa-snowflake-o {
+  color:greenyellow;
+}
+i.fa.fa-line-chart {
+  color:greenyellow;
+}
+i.fa.fa-gift {
+  color:greenyellow;
+}
+i.fa.fa-tablet {
+  color:greenyellow;
+}
+i.fa.fa-wifi {
+  color:greenyellow;
+}
+
+
 .padding {
     padding: 100px 0px 80px 0px;
 }
