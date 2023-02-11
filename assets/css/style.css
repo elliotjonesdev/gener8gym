@@ -43,6 +43,19 @@ li.nav-item.active {
   background-size:cover;
   z-index: -1;
 }
+
+#contact {
+  background: url(../images/contact.jpg) no-repeat center center fixed;
+  display:table;
+  height:100%;
+  position:relative;
+  width:100%;
+  background-size:cover;
+  z-index: -1;
+}
+
+
+
 .lead {
     padding-left: 70px;
     padding-right: 70px;
