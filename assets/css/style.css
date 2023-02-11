@@ -97,6 +97,15 @@ body {
     width:100%;
     background-size:cover;
 }
+#about-fixed {
+  background: url(../images/contact5.jpg) no-repeat center center fixed;
+  display:table;
+  height:60%;
+  position:relative;
+  width:100%;
+  background-size:cover;
+}
+
 .fa-bolt {
     color: greenyellow;
 }
