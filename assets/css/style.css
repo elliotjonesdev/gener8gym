@@ -212,6 +212,15 @@ color:black;
 .form-group {
   color: white;
 }
+.contact-us {
+  color:white;
+  text-align: center;
+  color: yellowgreen;
+  font-weight: bold;
+  text-decoration: underline;
+  padding-top: 2rem;
+
+}
 @media (max-width:768px) {
   .landing-text h1 {
       font-size: 300%;
