@@ -198,6 +198,20 @@ footer {
   color:greenyellow;
   text-decoration: none;
 }
+
+#contact-form {
+
+width: 60%;
+margin: auto;
+padding:3%;
+
+}
+.btn{
+color:black;
+}
+.form-group {
+  color: white;
+}
 @media (max-width:768px) {
   .landing-text h1 {
       font-size: 300%;
