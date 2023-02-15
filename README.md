@@ -24,4 +24,4 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 * #### Navigation Bar
   * Navigation is featured on all three pages
 
-![This is an image](assets/images/nav.png)
+![image](https://user-images.githubusercontent.com/119816371/219177829-0dcbc5bd-fb19-428f-a338-64f98a16202b.png)
