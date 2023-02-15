@@ -3,7 +3,7 @@
 ## UX
 
 ### Project Goals
-The primary goal of GENER8 GYM is to provide a clean and easy to navigate user experience for users interested in joining the local GENER8 gym. The target audience of GENER* GYM is 22 - 30 year old male and females who have an interest in keeping fit in a modern and friendly environment. The user will be able to find out class information, contact an connect with the gym using social links and a contact form.
+The primary goal of the GENER8 GYM website is to attract those interested in joining a gym who are looking for motivation, choice and to be part of a fitness community. The target audience of GENER8 GYM is 22 - 30 year old male and females who have an interest in keeping fit in a modern and friendly environment, with a clean modern look to the website that is simple and intuitive to use. The user will be able to find out class information, contact and connect with the gym using social links and send an enquiry to the gym via a contact form.
 
 
 #### User Goals
