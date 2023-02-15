@@ -15,3 +15,13 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 #### Business Goals
 * To inform the user of GENER8 GYM and its services
 * To appeal to the identified target audience
+* To attract new members to the gym membership
+
+## Features
+
+### Existing Features
+
+* #### Navigation Bar
+  * Navigation is featured on all three pages
+
+![This is an image](assets/images/nav.png)
