@@ -22,6 +22,6 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 ### Existing Features
 
 * #### Navigation Bar
-  * Navigation is featured on all three pages
+  * Navigation is featured on all three pages with logo link to home page, pages include Home, About and Contact with identical layout to each page navigation.
 
 ![image](https://user-images.githubusercontent.com/119816371/219177829-0dcbc5bd-fb19-428f-a338-64f98a16202b.png)
