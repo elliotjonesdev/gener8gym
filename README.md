@@ -21,6 +21,12 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 
 ### Existing Features
 
+* #### GENER8 Logo
+
+  * The GENER8 logo identifies with the target user and conveys energy and power through use of the spinning style logo in fresh yellow green, and the GENER8 name uses the number 8 to shorten the word generate and add interest. The logo sits to the left on desktop and mobile view to mirror the navigation to the right.
+
+<img width="216" alt="Screenshot 2023-02-18 at 08 01 56" src="https://user-images.githubusercontent.com/119816371/219849165-03c901d6-fc0a-4fab-9ef8-4711e019ea7d.png">
+
 * #### Navigation Bar
   * Navigation is featured on all three pages with logo link to home page, pages include Home, About and Contact with identical layout to each page navigation.
   * The navigation provides ease of use with clickable links to each page, without the need for using a 'back' button, and has an intuitive approach with active page highlighted in colour.
@@ -37,3 +43,6 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   * The user will see the benefits of using GENER8 GYM in a quick and easy to understand format and if interested will be able to find out more by clicking the links. The section includes a mood shot of the weights section and an action shot of gym users.
 
 <img width="1440" alt="Screenshot 2023-02-18 at 07 55 49" src="https://user-images.githubusercontent.com/119816371/219848883-3cacd40a-8b1e-4705-9fde-e68344a2e654.png">
+
+* #### Reasons To Join
+  * 
