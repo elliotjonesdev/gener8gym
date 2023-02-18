@@ -34,4 +34,6 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 
 * #### Classes And Membership
   * The classes and membership section allows the user to understand the key benefits of GENER8 GYM with class information and how to become a member. Each section has a call to action link highlighted in the yellow green colour theme, and a repeat of the icon logo in the title to increase engagement.
-  * The user will see the benefits of using GENER8 GYM in a quick and easy to understand format and if interested will be able to find out more by clicking the links.
+  * The user will see the benefits of using GENER8 GYM in a quick and easy to understand format and if interested will be able to find out more by clicking the links. The section includes a mood shot of the weights section and an action shot of gym users.
+
+<img width="1440" alt="Screenshot 2023-02-18 at 07 55 49" src="https://user-images.githubusercontent.com/119816371/219848883-3cacd40a-8b1e-4705-9fde-e68344a2e654.png">
