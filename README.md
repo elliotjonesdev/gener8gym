@@ -30,3 +30,4 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 * #### Landing Page Image
   * The landing page introduces GENER8 GYM to the user with a positive and engaging image showing people using the gym. The image reflects to the user a happy and positive environment.
   * The landing text is bold and eyecatching, including an inspirational message to the user and a central coloured call to action button. 
+<img width="1440" alt="Screenshot 2023-02-18 at 07 38 17" src="https://user-images.githubusercontent.com/119816371/219848199-c62e4b77-0f76-4c32-8ba6-38d5be5b4517.png">
