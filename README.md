@@ -23,5 +23,10 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 
 * #### Navigation Bar
   * Navigation is featured on all three pages with logo link to home page, pages include Home, About and Contact with identical layout to each page navigation.
+  * The navigation provides ease of use with clickable links to each page, without the need for using a 'back' button, and has an intuitive approach with active page highlighted in colour.
 
 ![image](https://user-images.githubusercontent.com/119816371/219177829-0dcbc5bd-fb19-428f-a338-64f98a16202b.png)
+
+* #### Landing Page Image
+  * The landing page introduces GENER8 GYM to the user with a positive and engaging image showing people using the gym. The image reflects to the user a happy and positive environment.
+  * The landing text is bold and eyecatching, including an inspirational message to the user and a central coloured call to action button. 
