@@ -31,3 +31,7 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   * The landing page introduces GENER8 GYM to the user with a positive and engaging image showing people using the gym. The image reflects to the user a happy and positive environment.
   * The landing text is bold and eyecatching, including an inspirational message to the user and a central coloured call to action button. 
 <img width="1440" alt="Screenshot 2023-02-18 at 07 38 17" src="https://user-images.githubusercontent.com/119816371/219848199-c62e4b77-0f76-4c32-8ba6-38d5be5b4517.png">
+
+* #### Classes And Membership
+  * The classes and membership section allows the user to understand the key benefits of GENER8 GYM with class information and how to become a member. Each section has a call to action link highlighted in the yellow green colour theme, and a repeat of the icon logo in the title to increase engagement.
+  * The user will see the benefits of using GENER8 GYM in a quick and easy to understand format and if interested will be able to find out more by clicking the links.
