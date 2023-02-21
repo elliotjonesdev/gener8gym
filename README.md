@@ -50,19 +50,21 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <img width="1440" alt="Screenshot 2023-02-21 at 18 48 00" src="https://user-images.githubusercontent.com/119816371/220432882-347a873a-5cd0-48c2-9aad-49712f1ef6db.png">
 
 * #### The Footer
- * The footer features a contact us section, social links and an enlarged GENER8 GYM icon, laid out in a simple format to enable the user to quickly find out how to contact the gym.
- * The footer enables the user to engage with the GENER8 GYM community via social media to find out more and to increase engagement.
+  * The footer features a contact us section, social links and an enlarged GENER8 GYM icon, laid out in a simple format to enable the user to quickly find out how to contact the gym.
+  * The footer enables the user to engage with the GENER8 GYM community via social media to find out more and to increase engagement.
  <img width="1440" alt="Screenshot 2023-02-21 at 18 48 16" src="https://user-images.githubusercontent.com/119816371/220433919-a98ef9e8-eef2-4a1b-a20f-8fa6ead874c0.png">
  
 * #### About Us Page
-   * The about us page uses an aspirational mood image to attract the user to read further. The image reflects a modern and clean workout environment which identifies with the needs of the target audience.
+  * The about us page uses an aspirational mood image to attract the user to read further. The image reflects a modern and clean workout environment which identifies with the needs of the target audience.
   * The about us text is bold and eyecatching, including a bold ABOUT US message to the user and a central coloured call to action button. 
 <img width="1439" alt="Screenshot 2023-02-21 at 19 06 09" src="https://user-images.githubusercontent.com/119816371/220436586-ae31bc61-b8b7-41f2-84fd-2840a8fc53eb.png">
 
 * #### Contact Us Page
- * The contact form enables the usert to enter their details and leave a message to GENER8 GYM, and also select from a dropdown box the type of enquiry that they are making. 
- * The user can complete the form and submit by clicking the send massage button at the bottom of the form.
+  * The contact form enables the usert to enter their details and leave a message to GENER8 GYM, and also select from a dropdown box the type of enquiry that they are making. 
+  * The user can complete the form and submit by clicking the send massage button at the bottom of the form.
  <img width="1440" alt="Screenshot 2023-02-21 at 19 06 25" src="https://user-images.githubusercontent.com/119816371/220438022-f0602e41-f4c1-48d6-a797-ad9eb656cc36.png">
+ 
+ ## Features
  
 
 
