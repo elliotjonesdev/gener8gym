@@ -50,5 +50,8 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <img width="1440" alt="Screenshot 2023-02-21 at 18 48 00" src="https://user-images.githubusercontent.com/119816371/220432882-347a873a-5cd0-48c2-9aad-49712f1ef6db.png">
 
 * #### The Footer
+ * The footer features a contact us section, social links and an enlarged GENER8 GYM icon, laid out in a simple format to enable the user to quickly find out how to contact the gym.
+ * The footer enables the user to engage with the GENER8 GYM community via social media to find out more and to increase engagement.
+ <img width="1440" alt="Screenshot 2023-02-21 at 18 48 16" src="https://user-images.githubusercontent.com/119816371/220433919-a98ef9e8-eef2-4a1b-a20f-8fa6ead874c0.png">
 
 
