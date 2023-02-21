@@ -45,5 +45,10 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <img width="1440" alt="Screenshot 2023-02-18 at 07 55 49" src="https://user-images.githubusercontent.com/119816371/219848883-3cacd40a-8b1e-4705-9fde-e68344a2e654.png">
 
 * #### Reasons To Join
-  * 
+  * The reasons to join section uses icons and text to provide information to the user and give good reasong to joing GENER8 GYM.
+  * The user will quickly see the value of joining GENER8 GYM with quick and easy benefits shown in an eyecatching format.
 <img width="1440" alt="Screenshot 2023-02-21 at 18 48 00" src="https://user-images.githubusercontent.com/119816371/220432882-347a873a-5cd0-48c2-9aad-49712f1ef6db.png">
+
+* #### The Footer
+
+
