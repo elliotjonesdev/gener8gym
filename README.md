@@ -64,7 +64,11 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   * The user can complete the form and submit by clicking the send massage button at the bottom of the form.
  <img width="1440" alt="Screenshot 2023-02-21 at 19 06 25" src="https://user-images.githubusercontent.com/119816371/220438022-f0602e41-f4c1-48d6-a797-ad9eb656cc36.png">
  
- ## Features
+ ## Testing
  
+### Validator Testing
+* #### HTML
+  * 
 
-
+* #### CSS
+  *
