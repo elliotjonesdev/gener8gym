@@ -55,7 +55,9 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
  <img width="1440" alt="Screenshot 2023-02-21 at 18 48 16" src="https://user-images.githubusercontent.com/119816371/220433919-a98ef9e8-eef2-4a1b-a20f-8fa6ead874c0.png">
  
 * #### About Us Page
- * The about us section has a 
+   * The about us page uses an aspirational mood image to attract the user to read further. The image reflects a modern and clean workout environment which identifies with the needs of the target audience.
+  * The about us text is bold and eyecatching, including a bold ABOUT US message to the user and a central coloured call to action button. 
+<img width="1439" alt="Screenshot 2023-02-21 at 19 06 09" src="https://user-images.githubusercontent.com/119816371/220436586-ae31bc61-b8b7-41f2-84fd-2840a8fc53eb.png">
  
 
 
