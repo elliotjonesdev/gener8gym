@@ -60,8 +60,9 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <img width="1439" alt="Screenshot 2023-02-21 at 19 06 09" src="https://user-images.githubusercontent.com/119816371/220436586-ae31bc61-b8b7-41f2-84fd-2840a8fc53eb.png">
 
 * #### Contact Us Page
- * The contact form
- 
+ * The contact form enables the usert to enter their details and leave a message to GENER8 GYM, and also select from a dropdown box the type of enquiry that they are making. 
+ * The user can complete the form and submit by clicking the send massage button at the bottom of the form.
+ <img width="1440" alt="Screenshot 2023-02-21 at 19 06 25" src="https://user-images.githubusercontent.com/119816371/220438022-f0602e41-f4c1-48d6-a797-ad9eb656cc36.png">
  
 
 
