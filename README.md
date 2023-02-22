@@ -1,4 +1,7 @@
 # GENER8 GYM
+GENER8 GYM is a responsive website for a local gym, with a clean and modern approach to it's design and minimal layout, focused on a balance of text and inspirational fitness images to help the user understand the key benefits of joining up and to help them connect with the GENER8 GYM social community.
+
+<img width="1418" alt="screenshot_2023-02-22_at_11 05 55" src="https://user-images.githubusercontent.com/119816371/220610592-894e840d-bfb0-4258-9c1a-45b11cbda61a.png">
 
 ## UX
 
