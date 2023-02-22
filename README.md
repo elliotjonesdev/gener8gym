@@ -74,8 +74,8 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <p align="center"><img width="690" alt="Screenshot 2023-02-22 at 13 55 33" src="https://user-images.githubusercontent.com/119816371/220640866-c1b38036-49e7-4ec2-b123-04dd259c9ec6.png"></p>
 
 * #### CSS
-  *
-  
+<img width="1440" alt="Screenshot 2023-02-22 at 14 16 48" src="https://user-images.githubusercontent.com/119816371/220647793-66a71cf8-e4f9-4009-a312-660f875fb254.png">
+
 ### Responsiveness
 * #### iPhone SE
 <p align="center"><img width="788" alt="Screenshot 2023-02-21 at 22 33 24" src="https://user-images.githubusercontent.com/119816371/220475247-0b8c9b5e-f01f-42f1-8f15-c3c9fbffd2d2.png"></p>
