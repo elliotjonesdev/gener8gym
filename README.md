@@ -121,3 +121,4 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
  * The page layout was generated using guidance from a [Responsive Bootstrap Website Tutorial](https://www.youtube.com/watch?v=Zn64_IVLO88&t=833s)
  * The contact form layout was created with code from [Bootstrapious](https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form)
 ### Media
+ * Images for the website were taken from [Unsplash](https://unsplash.com/)
