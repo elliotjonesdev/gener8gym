@@ -102,6 +102,9 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   
 <img width="1440" alt="Screenshot 2023-02-24 at 16 47 16" src="https://user-images.githubusercontent.com/119816371/221237877-35dd9e50-9e1d-4fb0-b5ab-8e0e47e834bd.png">
 
+### User Stories
+<p align="center"><img width="736" alt="Screenshot 2023-02-24 at 21 53 36" src="https://user-images.githubusercontent.com/119816371/221300401-9f657559-7f99-44b4-bd2e-fabbe0b0fe5d.png"></p>
+
 ## Features
 <p align="center"><img width="976" alt="Screenshot 2023-02-24 at 17 09 52" src="https://user-images.githubusercontent.com/119816371/221243251-c5281885-4670-497c-a3b9-12607468981d.png"></p>
 
