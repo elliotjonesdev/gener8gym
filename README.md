@@ -70,6 +70,7 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
  ## Testing
  
 ### Validator Testing
+
 * #### HTML
 <p align="center"><img width="690" alt="Screenshot 2023-02-22 at 13 55 33" src="https://user-images.githubusercontent.com/119816371/220640866-c1b38036-49e7-4ec2-b123-04dd259c9ec6.png"></p>
 
@@ -77,6 +78,7 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 <img width="1440" alt="Screenshot 2023-02-22 at 14 16 48" src="https://user-images.githubusercontent.com/119816371/220647793-66a71cf8-e4f9-4009-a312-660f875fb254.png">
 
 ### Responsiveness
+
 * #### iPhone SE
 <p align="center"><img width="788" alt="Screenshot 2023-02-21 at 22 33 24" src="https://user-images.githubusercontent.com/119816371/220475247-0b8c9b5e-f01f-42f1-8f15-c3c9fbffd2d2.png"></p>
     
@@ -85,17 +87,23 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   <p align="center"><img width="787" alt="Screenshot 2023-02-21 at 22 38 46" src="https://user-images.githubusercontent.com/119816371/220475020-d96f8f07-a498-4284-b447-7c03558d35df.png"></p>
   
 ### Developer Tools - Analysis
+
 <img width="1433" alt="Screenshot 2023-02-22 at 15 21 35" src="https://user-images.githubusercontent.com/119816371/220667883-c784e34d-12cb-4a16-af14-7d3f976074cb.png">  
 
 ## Browser Compatibility
+
  * #### Safari
  The following screenshot shows desktop view for Safari browser
+ 
  <img width="1344" alt="Screenshot 2023-02-24 at 16 36 47" src="https://user-images.githubusercontent.com/119816371/221236676-34e24385-f332-4b8c-984d-b0d12127f0ce.png">
+ 
  * #### Chrome
   The following screenshot shows desktop view for Chrome browser
+  
 <img width="1440" alt="Screenshot 2023-02-24 at 16 47 16" src="https://user-images.githubusercontent.com/119816371/221237877-35dd9e50-9e1d-4fb0-b5ab-8e0e47e834bd.png">
 
  ## Deployment
+ 
  * #### The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
    * In the GitHub repository, navigate to the Settings tab
    * From the source section drop-down menu, select the Master Branch
