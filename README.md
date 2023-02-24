@@ -116,3 +116,6 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
+### Content
+The logo icon, page icons and socila icons were taken from [Font Awesome](https://fontawesome.com/v4/icons/)
+### Media
