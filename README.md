@@ -20,7 +20,7 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 * To appeal to the identified target audience
 * To attract new members to the gym membership
 
-## Features
+## Website Features
 
 ### Existing Features
 
