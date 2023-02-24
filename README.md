@@ -86,11 +86,11 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
    
   <p align="center"><img width="787" alt="Screenshot 2023-02-21 at 22 38 46" src="https://user-images.githubusercontent.com/119816371/220475020-d96f8f07-a498-4284-b447-7c03558d35df.png"></p>
   
-### Developer Tools - Analysis
+### Lighthouse Analysis
 
 <img width="1433" alt="Screenshot 2023-02-22 at 15 21 35" src="https://user-images.githubusercontent.com/119816371/220667883-c784e34d-12cb-4a16-af14-7d3f976074cb.png">  
 
-## Browser Compatibility
+### Browser Compatibility
 
  * #### Safari
  The following screenshot shows desktop view for Safari browser
