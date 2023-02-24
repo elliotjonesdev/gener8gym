@@ -86,3 +86,11 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
   
 ### Developer Tools - Analysis
 <img width="1433" alt="Screenshot 2023-02-22 at 15 21 35" src="https://user-images.githubusercontent.com/119816371/220667883-c784e34d-12cb-4a16-af14-7d3f976074cb.png">  
+
+ ## Deployment
+ 
+* The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
+
+ * In the GitHub repository, navigate to the Settings tab
+ * From the source section drop-down menu, select the Master Branch
+ * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
