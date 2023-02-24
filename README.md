@@ -117,5 +117,7 @@ The primary goal of the GENER8 GYM website is to attract those interested in joi
 
 ## Credits
 ### Content
-The logo icon, page icons and socila icons were taken from [Font Awesome](https://fontawesome.com/v4/icons/)
+ * The logo icon, page icons and socila icons were taken from [Font Awesome](https://fontawesome.com/v4/icons/)
+ * The page layout was generated using guidance from a [Responsive Bootstrap Website Tutorial](https://www.youtube.com/watch?v=Zn64_IVLO88&t=833s)
+ * The contact form layout was created with code from [Bootstrapious](https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form)
 ### Media
